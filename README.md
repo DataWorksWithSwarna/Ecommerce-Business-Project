@@ -28,3 +28,10 @@ Each record represents a unique customer order and contains details covering pro
 
 
 ![Dashboard 1 pg 2](https://github.com/DataWorksWithSwarna/Ecommerce-Buisness-Project/blob/main/Dashboard%201%20Page%202%20.png)
+
+
+## Visuals of Dashboard Using Tableau
+
+![Dashboard 1 pg 1](Ecomm-Tableau-Dashboard1.png)
+
+![Dashboard 2 pg 2](Ecomm-Tableau-Dashboards2.png)
