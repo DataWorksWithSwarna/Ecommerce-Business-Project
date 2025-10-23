@@ -22,7 +22,7 @@ Each record represents a unique customer order and contains details covering pro
 -  Power BI Sales Dashboards
 -  Forecasting & ML models (Sales Prediction, Customer Segmentation)
 
-## Visuals of Dashboard
+## Visuals of Dashboard Using Power BI
 
 ![Dashboard 1 pg 1](https://github.com/DataWorksWithSwarna/Ecommerce-Buisness-Project/blob/main/Dasboard%201%20Page%201.png)
 
