@@ -1,4 +1,4 @@
-# Ecommerce Buisness Sales~
+# Ecommerce Business Sales~
 
 ## Project Overview
 
